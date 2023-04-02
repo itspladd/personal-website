@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <main
+    class="main"
+  >
+    <div
+      class="description"
+    >
+      <h1>
+        Hi, I'm Paul.
+      </h1>
+    </div>
+  </main>
+</div>
+`;
